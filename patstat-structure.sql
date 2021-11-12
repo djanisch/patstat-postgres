@@ -1,4 +1,4 @@
--- Autumn 2020 edition
+-- Autumn 2021 edition
 -- Postgres 13
 
 DROP SCHEMA IF EXISTS patstat CASCADE;
